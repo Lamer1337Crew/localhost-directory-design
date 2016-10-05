@@ -1,0 +1,42 @@
+/*
+Created By : Muhamad Bayu Wilanda
+Github : https://github.com/BayuWilanda4L;
+*/
+
+body {
+	font-size: 30px;
+ 	color : white;
+ 	margin:  7% auto;
+ 	text-align: center;
+ 	background-image: url(images/banner-1.jpg);
+ 	background-position: center;
+ 	background-attachment: fixed;
+}
+body a{
+  color: white;
+  text-decoration: none;
+  display: block;
+}
+body a:hover {
+	background-color: #666;
+	border-radius: 5px;
+}
+table {
+	margin:auto;
+	background-color: transparent;
+	border: 1px solid white;
+	border-radius: 8px;
+	text-align: center;
+}
+table#indexlist {
+	font-family: ubuntu;
+	width: 70%;
+	height: auto;
+	font-size: 14px;
+}
+th.indexcolname a,th.indexcollastmod a, th.indexcolsize a,th.indexcoldesc a{
+	font-size: 16px;
+}
+address {
+	font-size: 14px;
+}
