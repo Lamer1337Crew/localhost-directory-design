@@ -14,5 +14,5 @@ How to use:<br>
 *you can change the style*<br><br>
 
 #Screenshot
-![SS1.png](/screenshot/1.jpg?raw=true "Screenshot-1")<br><br>
-![SS1.png](/screenshot/2.jpg?raw=true "Screenshot-1")
+![SS1.png](/screenshot/1.png?raw=true "Screenshot-1")<br><br>
+![SS1.png](/screenshot/2.png?raw=true "Screenshot-1")
